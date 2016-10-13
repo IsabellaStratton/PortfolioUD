@@ -3,7 +3,7 @@
 
 body {
     background-color: 0;
-	font-family:Tw Cen MT;
+	font-family:"Trebuchet MS";
     padding:0;
 }
 
@@ -80,7 +80,7 @@ text-align:center;
 } 
 
 a {
-	font-family:TW Cen MT;
+	font-family:"Trebuchet MS";
     line-height:30px;
     background-color: 0;
 	font-size:24px;
@@ -91,13 +91,13 @@ a {
 h1 {
     color: black;
     text-align: center;
-	font-family:Tw Cen MT;
+	font-family:"Trebuchet MS";
 	font-size:75px;
     padding:8px;
 }
 
 p {
-    font-family: "Tw Cen MT";
+    font-family: "Trebuchet MS";
     font-size: 20px;
 }
 

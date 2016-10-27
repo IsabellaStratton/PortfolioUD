@@ -44,7 +44,7 @@ ul {
   align-items: center;
   background-image: url("img/ishome.jpg");
   background-size: cover;
-  height: 1300px;
+  height: 700px;
 }
 
 a:link {
@@ -127,8 +127,8 @@ subscribe-form{
 
 #middle
 {position:fixed;
-top:300px;
-left:1150px;}
+top:100px;
+left:450px;}
 
  
 #left
